@@ -1,3 +1,3 @@
 # NinjaSprite
 One sprite movement
-https://wenjuchou.github.io/ninja-project/
+ https://wenjuchou.github.io/ninja-project/
